@@ -34,7 +34,7 @@ Dart Programming
        # Ternary Operator
        
        
-   4. Loop Control Statements
+  # 4. Loop Control Statements
        # What are Iterators?
        # FOR Loop and how it works
        # WHILE Loop
@@ -45,7 +45,7 @@ Dart Programming
        
        
        
-  5. Functions or Methods
+  # 5. Functions or Methods
        # Declaring functions
        # Function Expressions: Short hand syntax or using FAT ARROR
        # Optional Positional Parameters
@@ -54,13 +54,13 @@ Dart Programming
        
        
        
-  6. Exception Handling
+ # 6. Exception Handling
        # Demo with example
        # Custom Exception Class
        
        
        ##  OOP
- 7. Object Oriented Programming: Getting Started
+# 7. Object Oriented Programming: Getting Started
        # Defining Class and creating Objects
        # Instance and field variables
        # Constructors
@@ -70,14 +70,14 @@ Dart Programming
               
               
               
- 8. Functional Programming in Dart
+# 8. Functional Programming in Dart
        # Lambda Expression
        # :)Higher-Order Functions
        # :)Lexical Closures
        
        
        
-9.  Dart Collections
+ # 9.  Dart Collections
        # :)Arrays or List
             # :)Fixed Length List
             # :) Growable List
@@ -87,14 +87,14 @@ Dart Programming
        
        
        
- 10.  Callable Classes
+ # 10.  Callable Classes
  
  
- 11.  Conclusion
+ # 11.  Conclusion
  
  
  
-                           :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :)
+                          :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :)
       
        
         
