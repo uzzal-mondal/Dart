@@ -14,8 +14,8 @@ Dart Programming
 	Step by Step Learning Sylybus.
 
   0. Overview
-       :) Course Inroduction and Setup to Webstorm
-       :) instlation windows, mac, linux os - https://www.jetbrains.com/webstorm/
+       # Course Inroduction and Setup to Webstorm
+       # instlation windows, mac, linux os - https://www.jetbrains.com/webstorm/
        
   1. Start Dart Programming
        :)Run your first app in Dart
