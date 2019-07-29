@@ -11,7 +11,7 @@ Dart Programming
                          
 
 
-	Step by Step Learning Sylybus.
+	#:) Step by Step Learning Sylybus.
 
   0. Overview
        # Course Inroduction and Setup to Webstorm
@@ -35,55 +35,55 @@ Dart Programming
        
        
    4. Loop Control Statements
-       :)What are Iterators?
-       :)FOR Loop and how it works
-       :)WHILE Loop
-       :)DO WHILE Loop
-       :)BREAK statements
-       :)CONTINUE keyword
-       :)Labelled FOR Loop
+       # What are Iterators?
+       # FOR Loop and how it works
+       # WHILE Loop
+       # DO WHILE Loop
+       # BREAK statements
+       # CONTINUE keyword
+       # Labelled FOR Loop
        
        
        
   5. Functions or Methods
-       :)Declaring functions
-       :)Function Expressions: Short hand syntax or using FAT ARROR
-       :)Optional Positional Parameters
-       :)Optional Named Parameters
-       :)Optional Default Parameters
+       # Declaring functions
+       # Function Expressions: Short hand syntax or using FAT ARROR
+       # Optional Positional Parameters
+       # Optional Named Parameters
+       # Optional Default Parameters
        
        
        
   6. Exception Handling
-       :)Demo with example
-       :)Custom Exception Class
+       # Demo with example
+       # Custom Exception Class
        
        
-       OOP
+       ##  OOP
  7. Object Oriented Programming: Getting Started
-       :)Defining Class and creating Objects
-       :)Instance and field variables
-       :)Constructors
-            .)Default
+       # Defining Class and creating Objects
+       # Instance and field variables
+       # Constructors
+             .)Default
              .)Named
               .)Parameterized
               
               
               
  8. Functional Programming in Dart
-       :)Lambda Expression
-       :)Higher-Order Functions
-       :)Lexical Closures
+       # Lambda Expression
+       # :)Higher-Order Functions
+       # :)Lexical Closures
        
        
        
 9.  Dart Collections
-       :)Arrays or List
-            :)Fixed Length List
-            :) Growable List
+       # :)Arrays or List
+            # :)Fixed Length List
+            # :) Growable List
             
-       :)Set and HashSet
-       :)Map and HashMap
+       # :)Set and HashSet
+       # :)Map and HashMap
        
        
        
