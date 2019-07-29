@@ -18,20 +18,20 @@ Dart Programming
        # instlation windows, mac, linux os - https://www.jetbrains.com/webstorm/
        
   1. Start Dart Programming
-       :)Run your first app in Dart
-       :) Comments
+       # Run your first app in Dart
+       # Comments
        
        
   2. Data Types and Variables
-       :)Data Types and Variables
-       :)String, Literals and String Interpolation
-       :)Define constants using "final" and "const" keywords
+       # Data Types and Variables
+       # String, Literals and String Interpolation
+       # Define constants using "final" and "const" keywords
        
        
   3. Control Flow Statements 
-       :)IF ELSE
-       :)Conditional Expressions
-       :)Ternary Operator
+       # IF ELSE
+       # Conditional Expressions
+       # Ternary Operator
        
        
    4. Loop Control Statements
